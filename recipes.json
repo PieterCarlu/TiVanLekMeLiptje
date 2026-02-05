@@ -293,18 +293,43 @@
     "tags": []
   },
   {
-    "id": "Bla-bla-2",
-    "title": "Bla bla 2",
-    "type": "",
+    "id": "korean-chicken-bowl",
+    "title": "Korean Chicken Bowl",
+    "type": "Aziatisch",
     "image": "images/chocolate-cake.jpg",
-    "summary": "",
+    "summary": "Knapperige kip met een pittig-zoete saus, frisse groenten en rijst",
     "ingredients": [
-      
+      "150 - 200 gr kip",
+      "80 - 100 gr rijst",
+      "Snuifje lookpoeder",
+      "Snijfje uienpoeder",
+      "1 kl gochujang",
+      "1 kl honing",
+      "3 kl sojasaus",
+      "2 kl yoghurt",
+      "1 kl mayo",
+      "1 toefje gochujang",
+      "1 toefje honing",
+      "Snuifje lookpoeder",
+      "Komkommer",
+      "½ rode ui",
+      "1 kl azijn",
+      "Scheutje sesamolie",
+      "Scheutje sojasaus",
+      "Sesamzaadjes"
     ],
     "instructions": [
-      
+      "Snijd de kip in blokjes.",
+      "Meng de kip met het look- en uienpoeder, gochujang (1 kl), honing (1 kl) en sojasaus (3 kl).",
+      "Laat dit even rusten en bak daarna in de pan.",
+      "Kook ondertussen de rijst gaar.",
+      "Meng de yoghurt met de mayo, gochujang, honing en lookpoeder. Laat dit even rusten.",
+      "Snijd de komkommer en rode ui in schijfjes.",
+      "Meng dit met de azijn, sesamolie, sojasaus en sesamzaadjes. Zet dit even aan de kant.",
+      "Wanneer de kip gebakken is, kan je een bowl maken.",
+      "Doe onderaan de rijst en verdeel hierover de groentjes en kip. Doe hierover de saus."
     ],
-    "servings": 4,
-    "tags": []
+    "servings": 1,
+    "tags": ["Aziatisch", "Rijst", "Kip"]
   }
 ]
