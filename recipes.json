@@ -278,21 +278,6 @@
     "tags": ["Ovenschotel", "Vis", "Pasta"]
   },
   {
-    "id": "Bla-bla-5",
-    "title": "Bla bla 5",
-    "type": "",
-    "image": "images/chocolate-cake.jpg",
-    "summary": "",
-    "ingredients": [
-      
-    ],
-    "instructions": [
-      
-    ],
-    "servings": 4,
-    "tags": []
-  },
-  {
     "id": "korean-chicken-bowl",
     "title": "Korean Chicken Bowl",
     "type": "Aziatisch",
