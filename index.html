@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Ti van Lek Me Liptje</title>
+  <link rel="icon" href="images/favicon.png">
+  <link rel="stylesheet" href="styles.css" />
+  <meta name="description" content="Pieter's personal recipe collection with search and filters."/>
+</head>
+<body>
+  <header class="banner">
+    <img src="images/logo-cutted.png" class="logo" alt="Site logo" />
+    <section class="search-section" role="search">
+      <label class="visually-hidden" for="searchInput">Search recipes</label>
+      <input type="text" id="searchInput" placeholder="Search recipes..." aria-label="Search recipes" autocomplete="off" />
+
+      <label class="visually-hidden" for="typeFilter">Filter by dish type</label>
+      <select id="typeFilter" aria-label="Filter by type">
+        <option value="">All Types</option>
+        <option value="Ontbijt">Breakfast</option>
+        <option value="Pasta">Pasta</option>
+        <option value="Aziatisch">Asian</option>
+        <option value="Dessert">Dessert</option>
+        <option value="Snack">Snack</option>
+        <option value="Soup">Soup</option>
+        <option value="Burger">Burger</option>
+        <option value="Saus">Sauce</option>
+        <option value="Vis">Vis</option>
+        <option value="Ovenschotel">Ovenschotel</option>
+      </select>
+    </section>
+  </header>
+
+  <div class="page-frame">
+    <main id="recipeList" class="recipe-grid" aria-live="polite"></main>
+
+    <template id="recipeCardTemplate">
+      <a class="recipe-card" href="#">
+        <img alt="" loading="lazy" />
+        <div class="recipe-card__body">
+          <h3></h3>
+          <p class="summary"></p>
+          <div class="meta">
+            <span class="type chip"></span>
+            <span class="time"></span>
+          </div>
+        </div>
+      </a>
+    </template>
+  </div>
+
+  <footer class="footer">
+    <p>© <span id="year"></span> TI VAN LEK ME LIPTJE</p>
+  </footer>
+
+  <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
+  <script src="script.js"></script>
+</body>
+</html>

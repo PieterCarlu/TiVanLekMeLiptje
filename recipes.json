@@ -1,0 +1,310 @@
+[
+  {
+    "id": "Papas-spaghetti",
+    "title": "Papa's Spaghetti",
+    "type": "Pasta",
+    "image": "images/spaghetti.jpg",
+    "summary": "De beste spaghetti, volgens het recept van Papa Kurt",
+    "ingredients": [
+      "1 grote ui",
+      "1 kg tomaten (gepeld)",
+      "400 gr courgette",
+      "½ rode paprika",
+      "½ groene paprika",
+      "125 gr champignons",
+      "1 klein potje tomatenpuree",
+      "Oregano"
+    ],
+    "instructions": [
+      "Stoof de ui aan in boter.",
+      "Snij de paprika brunoise en voeg toe aan de ui.",
+      "Voeg de courgette, brunoise gesneden, toe.",
+      "Doe er de tomatenpuree bij en laat aanbakken.",
+      "Voeg de oregano toe en laat uitkoken tot de gewenste dikte van de saus."
+    ],
+    "prepTime": "1 uur",
+    "cookTime": "Een dagje",
+    "servings": 4,
+    "tags": ["Italiaans", "Pasta"]
+  },
+  {
+    "id": "spicy-ramen-bolognaise",
+    "title": "Spicy Ramen Bolognaise",
+    "type": "Aziatisch",
+    "image": "images/chocolate-cake.jpg",
+    "summary": "Pikante noedels met een italiaanse twist",
+    "ingredients": [
+      "500 g gemengd gehakt", 
+      "1 ui",
+      "3 of 4 dikke tenen knoflook",
+      "2 kl sambal oelek",
+      "2 kl tomatenconcentraat",
+      "4 kl zoetzure saus",
+      "2 mespunten gemberpoeder",
+      "Koolzaadolie",
+      "1 handvol gemalen kokosschilfers",
+      "1 handvol pindanoten", 
+      "1 lente-ui",
+      "125 g noedels",
+      "1 handvol gebakken uitjes" 
+    ],
+    "instructions": [
+      "Verwarm koolzaadolie in een grote antikleefpan op hoog vuur en bak het gehakt.",
+      "Laat goed aankleuren, maar roer niet zodat het gehakt niet rul wordt.",
+      "Snijd 1 ui en 7 tenen knoflook fijn en voeg toe aan het gehakt.",
+      "Breng op smaak met 2 kl sambal, 2 kl tomatenconcentraat en 4 kl zoetzure saus.",
+      "Voeg 2 mespunten gemberpoeder toe en laat even goed aanbakken. ",
+      "Zet onder met water en laat alles inkoken.",
+      "Breng een pot gezouten water aan de kook.",
+      "Verwarm een antikleefpan met koolzaadolie op middelhoog vuur.",
+      "Voeg 1 handvol pindanoten en 1 handvol kokosschilfers toe.",
+      "Rooster tot de kokos dezelfde kleur als de pindanoten heeft.",
+      "Snijd 1 lente - ui in fijne julienne en leg op ijswater zodat het mooi opkrult.", 
+      "Kook denoedels volgens de aanwijzingen op de verpakking.",
+      "Voeg de noedels toe aan de saus.",
+      "Haal de pinda’s en kokos uit de pan en voeg 1 handvol gebakken uitjes toe. Snijd fijn.",
+      "Serveer de noedels met saus, krokante pinda’s en kokosschilfers en lente - ui."
+    ],
+    "prepTime": "0 min",
+    "cookTime": "30 min",
+    "servings": 2,
+    "tags": ["Aziatisch", "Noodles"]
+  },
+  {
+    "id": "rode-poon-met-parelcouscous",
+    "title": "Rode poon met parelcouscous en warme groenten",
+    "type": "Vis",
+    "image": "images/chocolate-cake.jpg",
+    "summary": "",
+    "ingredients": [
+      "Witte vis",
+      "1 l groentebouillon",
+      "Kurkumapoeder",
+      "Currypoeder",
+      "Komijn",
+      "Tijm",
+      "Laurierblaadjes",
+      "Peper en zout",
+      "3 tomaten",
+      "Rode paprika",
+      "½ courgette",
+      "Sjalot",
+      "Boter",
+      "1 bakje champignons",
+      "Parelcouscous",
+      "Parmezaan"
+    ],
+    "instructions": [
+      "Warm de groentenbouillon op en breng op smaak met kurkuma, currypoeder, komijn, tijm, enkele blaadjes laurier, peper en zout.",
+      "Kook de parelcouscous gaar in de bouillon.",
+      "Emondeer de tomaten, haal de zaadjes eruit en snijd het vruchtvlees in blokjes. Doe ze in de mengkom.",
+      "Snijd ook de paprika, courgette en champignons en voeg toe aan de mengkom met tomatenstukjes. Doe er ook een fijngesnipperd sjalotje bij.",
+      "Laat de parelcouscous uitlekken als die gaar is.",
+      "Verwarm een flinke scheut olijfolie op het vuur. Stoof hierin de groenten (maar zorg dat alle champignons hierbij zitten.",
+      "Voeg de parelcouscous toe aan de stovende groenten en laat het geheel verder garen op een zacht vuur.",
+      "Bak de vis in hete olijfolie. Voeg er een klontje boter aan toe.",
+      "Doe nog wat parmezaan bij de parelcouscous voor serveren.",
+      "Serveer de couscous op een bord en ler een stukje vis op. Werk af met nog wat parmezaan erop."
+    ],
+    "servings": 4,
+    "tags": ["Vis", "Pasta"]
+  },
+  {
+    "id": "scampi-diabolique",
+    "title": "Scampi Diabolique",
+    "type": "Pasta",
+    "image": "images/chocolate-cake.jpg",
+    "summary": "",
+    "ingredients": [
+      "24 scampi’s",
+      "½ l witte wijn",
+      "Boter",
+      "Peper en zout",
+      "2 wortelen",
+      "1 ui",
+      "1 rode paprika",
+      "1 teentje look",
+      "1 dl water",
+      "Blokje groentenbouillon",
+      "Scheut ketchup",
+      "Klein doosje tomatenpuree",
+      "3 dl room",
+      "Chilikruiden of pili pili",
+      "5 takjes dragon",
+      "Pasta"
+    ],
+    "instructions": [
+      "Kuis de scampi’s, en kruid ze.",
+      "Smelt de boter, stoof er de look in en bak er de scampi’s in. Haal ze uit de pan.",
+      "Doe de fijngesneden groenten in de pan en laat stoven.",
+      "Doe er de witte wijn, het water, de bouillon, de ketchup, tomatenpuree en de room erbij. Laat dit inkoken (Groenten moeten hier al wat zacht zijn).",
+      "Doe er de chili en dragon bij.",
+      "Kook pasta erbij en serveer."
+    ],
+    "servings": 4,
+    "tags": ["Vis", "Pasta"]
+  },
+  {
+    "id": "Scampi-spirelli",
+    "title": "Scampi spirelli",
+    "type": "Vis",
+    "image": "images/chocolate-cake.jpg",
+    "summary": "",
+    "ingredients": [
+    "2 wortels",
+    "½ broccoli",
+    "½ rode paprika",
+    "½ groene paprika",
+    "1 kleine ui",
+    "1 teentje look",
+    "300 gr spirelli",
+    "1 bouillonblokje",
+    "Water",
+    "1 doos boursin cuisine light",
+    "1 zak scampi’s"
+    ],
+    "instructions": [
+      "Snijd de groenten in kleine stukken.",
+      "Doe ze in een microgolfkom samen met de spirelli, het bouillonblokje en 300 ml water.",
+      "Zet 10 minuten op volle kracht (850 Watt).",
+      "Doe er de scampis bij en et 5 min op 750 Watt.",  
+      "Meng er de doos boursin door."
+    ],
+    "servings": 4,
+    "tags": ["Vis", "Pasta"]
+  },
+  {
+    "id": "rijsttaart",
+    "title": "Rijsttaart",
+    "type": "Dessert",
+    "image": "images/chocolate-cake.jpg",
+    "summary": "Rijsttaart volgens het recept van de mama!",
+    "ingredients": [
+      "8 el suiker",
+      "3 eieren",
+      "4 el zelfrijzende bloem",
+      "2 pakjes vanillesuiker",
+      "½ l doos roomrijst",
+      "8 el olie (zonnebloem/maïs)"
+    ],
+    "instructions": [
+      "Meng de suiker, bloem, eieren en olie.",
+      "Smeer de bakvorm goed in met boter.",
+      "Laat 45 min. bakken op 200°C."
+    ],
+    "servings": 1,
+    "tags": ["Dessert", "Cake"]
+  },{
+    "id": "preischotel",
+    "title": "Preischotel",
+    "type": "Ovenschotel",
+    "image": "images/chocolate-cake.jpg",
+    "summary": "Preischotel met van die lekkere spekjes vanboven",
+    "ingredients": [
+      "½ kg gehakt",
+      "16 dunne sneden gerookt spek",
+      "1 ui",
+      "4 stalen prei",
+      "¾ kg aardappelen",
+      "Boter",
+      "2 grote lepels bloem",
+      "½ l melk",
+      "100 gr gemalen gruyère",
+      "Peper, zout en nootmuskaat"
+    ],
+    "instructions": [
+      "Bak het gehakt tot het korrelig is.",
+      "Voeg er de gesneden prei en ui aan toe en laat goed meestoven.",
+      "Kruiden met peper en zout.",
+      "Bereid ondertussen de kaassaus. Doe ze van het vuur wanneer je er de gruyère bij doet.",
+      "Breng het mengsel in een ingeboterde vuurvaste schotel.",
+      "Leg op het mengsel een laagje kaassaus en daarop een laag aardappelschijfjes.",
+      "Leg daarop de rest van de kaassaus en de reepjes spek (dicht bij elkaar).",
+      "Steek de schotel gedurende 30 min. in een oven van 200°C."
+    ],
+    "servings": 4,
+    "tags": ["Ovenschotel"]
+  },
+  {
+    "id": "besjamelsaus",
+    "title": "Besjamelsaus",
+    "type": "Basics",
+    "image": "images/chocolate-cake.jpg",
+    "summary": "",
+    "ingredients": [
+      "0.3 l melk",
+      "25 gr boter",
+      "25 gr bloem"
+    ],
+    "instructions": [
+      "Laat de boter smelten.",
+      "Meng de boter met de bloem tot een roux. Laat dit even aanbakken.",
+      "Doe er de melk er bij en breng het mengsel aan de kook."
+    ],
+    "servings": 2,
+    "tags": ["Basics"]
+  },
+  {
+    "id": "italiaanse-ovenschotel-met-kabeljauw",
+    "title": "Italiaanse ovenschotel met Kabeljauw",
+    "type": "Vis",
+    "image": "images/chocolate-cake.jpg",
+    "summary": "",
+    "ingredients": [
+      "100 gr kabeljauw",
+      "8 kerstomaten",
+      "Zongedroogde tomaten",
+      "½ courgette",
+      "80 ml light room",
+      "Italiaanse kruiden",
+      "Peper en zout",
+      "100 gr mozzarella",
+      "30 gr geraspte kaas",
+      "Olijfolie"
+    ],
+    "instructions": [
+      "Verwarm de oven op 200°C.",
+      "Was en snijd de courgette in brunoise.",
+      "Was en snijd de tomaten in kwartjes.",
+      "Snijd de mozzarella in blokjes en meng met de courgette, de zongedroogde tomaten en de kerstomaten.",
+      "Voeg er de room aan toe en kruid met italiaanse kruiden, peper en zout.",
+      "Druppel olijfolie op de bodem van de ovenschotel.",
+      "Leg wat groentenmengeling in de schotel en leg er de kabeljauw bovenop.",
+      "Kruid de kabeljauw met peper en zout.",
+      "Verdeel er de rest van het groentenmengsel rond en bovenop de kabeljauw.",
+      "Strooi er de geraspte kaas op en zet de schotel een half uurtje in de oven."
+    ],
+    "servings": 1,
+    "tags": ["Ovenschotel", "Vis", "Pasta"]
+  },
+  {
+    "id": "Bla-bla-5",
+    "title": "Bla bla 5",
+    "type": "",
+    "image": "images/chocolate-cake.jpg",
+    "summary": "",
+    "ingredients": [
+      
+    ],
+    "instructions": [
+      
+    ],
+    "servings": 4,
+    "tags": []
+  },
+  {
+    "id": "Bla-bla-2",
+    "title": "Bla bla 2",
+    "type": "",
+    "image": "images/chocolate-cake.jpg",
+    "summary": "",
+    "ingredients": [
+      
+    ],
+    "instructions": [
+      
+    ],
+    "servings": 4,
+    "tags": []
+  }
+]

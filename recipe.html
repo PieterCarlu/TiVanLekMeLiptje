@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Recipe</title>
+  <link rel="icon" href="images/favicon.png">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="banner">
+    <a href="index.html" class="logo-link" aria-label="Back to all recipes">
+      <img src="images/logo-cutted.png" class="logo" alt="Site logo" />
+    </a>
+
+    <h1 id="recipeTitle" class="recipe-title">Loading...</h1>
+  </header>
+
+  <main class="recipe-detail">
+    <img id="recipeImage" alt="" class="detail-image" />
+
+    <div class="meta-block">
+      <span id="recipeType" class="chip"></span>
+      <span id="recipeTimes"></span>
+      <span id="recipeServings"></span>
+    </div>
+
+    <section>
+      <h2>Ingredients</h2>
+      <ul id="ingredientsList"></ul>
+    </section>
+
+    <section>
+      <h2>Instructions</h2>
+      <ol id="instructionsList"></ol>
+    </section>
+
+    <section id="tagsSection" style="display:none;">
+      <h3>Tags</h3>
+      <div id="tags" class="tags"></div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>© <span id="year"></span> TI VAN LEK ME LIPTJE</p>
+  </footer>
+
+  <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
+  <script src="recipe.js"></script>
+</body>
+</html>
