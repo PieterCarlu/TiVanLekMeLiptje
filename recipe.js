@@ -51,7 +51,6 @@ function formatTimes(r){
             youtube: "images/references/youtube.svg",
             tiktok: "images/references/tiktok.svg",
             instagram: "images/references/instagram.svg",
-            dagelijksekost: "images/references/dagelijksekost.svg"
             dagelijksekost: "images/references/dagelijksekost.svg",
             link: "images/references/link.svg"
         };
