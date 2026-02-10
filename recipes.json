@@ -68,7 +68,10 @@
     "prepTime": "0 min",
     "cookTime": "30 min",
     "servings": 2,
-    "tags": ["Aziatisch", "Noodles"]
+    "tags": ["Aziatisch", "Noodles"],
+    "references": {
+      "link": "https://www.vtmgo.be/vtmgo/afspelen/2c992c7d-a47c-47ee-8eda-6d3fb923ad8e"
+    }
   },
   {
     "id": "rode-poon-met-parelcouscous",

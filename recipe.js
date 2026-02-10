@@ -52,6 +52,8 @@ function formatTimes(r){
             tiktok: "images/references/tiktok.svg",
             instagram: "images/references/instagram.svg",
             dagelijksekost: "images/references/dagelijksekost.svg"
+            dagelijksekost: "images/references/dagelijksekost.svg",
+            link: "images/references/link.svg"
         };
 
         Object.keys(r.references).forEach(platform => {
