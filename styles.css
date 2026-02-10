@@ -215,3 +215,20 @@ select:focus {
   text-decoration: none;
   font-weight: 600
 }
+
+.references {
+  display: flex;
+  gap: 12px;
+  margin-top: 10px;
+}
+
+.reference-icon {
+  width: 36px;
+  height: 36px;
+  cursor: pointer;
+  transition: opacity .2s;
+}
+
+.reference-icon:hover {
+  opacity: .6;
+}

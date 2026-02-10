@@ -39,5 +39,35 @@ function formatTimes(r){
       tagsEl.innerHTML='';
       r.tags.forEach(t=>{ const span=document.createElement('span'); span.className='chip'; span.textContent=t; tagsEl.appendChild(span); });
     }
+    const refEl = document.getElementById("references");
+
+    if (r.references) {
+        refSection.style.display = "";
+        refEl.innerHTML = "";
+
+        const iconMap = {
+            youtube: "images/references/youtube.svg",
+            tiktok: "images/references/tiktok.svg",
+            instagram: "images/references/instagram.svg",
+            dagelijksekost: "images/references/dagelijksekost.svg"
+        };
+
+        Object.keys(r.references).forEach(platform => {
+            if (!iconMap[platform]) return;
+
+            const a = document.createElement("a");
+            a.href = r.references[platform];
+            a.target = "_blank";
+
+            const img = document.createElement("img");
+            img.src = iconMap[platform];
+            img.alt = platform;
+            img.className = "reference-icon";
+
+            a.appendChild(img);
+            refEl.appendChild(a);
+        });
+    }
+
   }catch(e){ titleEl.textContent='Error loading recipe'; console.error(e); }
 })();

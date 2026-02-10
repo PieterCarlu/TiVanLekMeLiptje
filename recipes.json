@@ -315,6 +315,9 @@
       "Doe onderaan de rijst en verdeel hierover de groentjes en kip. Doe hierover de saus."
     ],
     "servings": 1,
-    "tags": ["Aziatisch", "Rijst", "Kip"]
+    "tags": ["Aziatisch", "Rijst", "Kip"], 
+    "references": {
+        "tiktok": "https://vm.tiktok.com/ZGdmgjHHd/"
+      }
   }
 ]
