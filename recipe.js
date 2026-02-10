@@ -39,6 +39,8 @@ function formatTimes(r){
       tagsEl.innerHTML='';
       r.tags.forEach(t=>{ const span=document.createElement('span'); span.className='chip'; span.textContent=t; tagsEl.appendChild(span); });
     }
+
+    const refSection = document.getElementById("referencesSection");
     const refEl = document.getElementById("references");
 
     if (r.references) {
