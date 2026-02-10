@@ -12,10 +12,6 @@ function fillList(el,items){
   (items||[]).forEach(i=>{ const li=document.createElement('li'); li.textContent=i; el.appendChild(li); });
 }
 
-function formatTimes(r){
-  const parts=[]; if(r.prepTime) parts.push(`Prep: ${r.prepTime}`); if(r.cookTime) parts.push(`Cook: ${r.cookTime}`); return parts.join(' • ');
-}
-
 (async function init(){
   const id=getParam('id');
   const titleEl=document.getElementById('recipeTitle');
@@ -27,7 +23,6 @@ function formatTimes(r){
     titleEl.textContent=r.title;
     const img=document.getElementById('recipeImage'); img.src=r.image; img.alt=r.title;
     document.getElementById('recipeType').textContent=r.type||'';
-    document.getElementById('recipeTimes').textContent=formatTimes(r);
     document.getElementById('recipeServings').textContent=r.servings?`Servings: ${r.servings}`:'';
     fillList(document.getElementById('ingredientsList'), r.ingredients);
     fillList(document.getElementById('instructionsList'), r.instructions);

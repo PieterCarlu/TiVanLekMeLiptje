@@ -30,24 +30,16 @@ function renderRecipes(recipes){
     const title=node.querySelector('h3');
     const summary=node.querySelector('.summary');
     const type=node.querySelector('.type');
-    const time=node.querySelector('.time');
 
     card.href=`recipe.html?id=${encodeURIComponent(r.id)}`;
     img.src=r.image; img.alt=r.title;
     title.textContent=r.title;
     summary.textContent=r.summary||'';
     type.textContent=r.type||'';
-    time.textContent = formatTime(r);
 
     frag.appendChild(node);
   });
   recipeListEl.appendChild(frag);
-}
-
-function formatTime(r){
-  const prep=r.prepTime?`Prep: ${r.prepTime}`:'';
-  const cook=r.cookTime?` • Cook: ${r.cookTime}`:'';
-  return (prep||cook)?`${prep}${cook}`:'';
 }
 
 function applyFilters(){
