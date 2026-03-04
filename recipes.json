@@ -318,5 +318,45 @@
     "references": {
         "tiktok": "https://vm.tiktok.com/ZGdmgjHHd/"
       }
+  },
+  {
+    "id": "Parelcouscous-Tomaat-Courgette-Vis",
+    "title": "Parelcouscous met tomaat, courgettesliertjes en vis",
+    "type": "Vis",
+    "image": "images/chocolate-cake.jpg",
+    "summary": "Romige parelcouscous met tomaatjes, vis en afgewerkt met courgettesliertjes",
+    "ingredients": [
+      "1 sjalot",
+      "1 teentje look",
+      "1 courgette",
+      "½ rode paprika",
+      "olijfolie",
+      "limoensap",
+      "1 el tomatenpuree",
+      "200 gr parelcouscous",
+      "Parmezaan",
+      "Boter",
+      "200 gr vis",
+      "½ l groentebouillon",
+      "Champignonnetjes naar keuze",
+      "Kerstomataatjes",
+      "Balsamico",
+      "Peper en zout"
+    ],
+    "instructions": [
+      "Stoof de look en de ajuin (fijngesneden).",
+      "Doe de courgette in blokjes er bij. Behoud de schil voor later.",
+      "Doe ook de parika, brunoise gesneden, erin.",
+      "Snijd de schil van de courgette in sliertjes. Doe deze in een kommetje en kruid met peper en zout. Besprenkel met olijfolie en limoensap.",
+      "Doe de champignonnetjes (kan gesneden) en de tomaatjes in een schaaltje. Kruid deze en besprenkel de tomaatjes met balsamico. Steek dit 10 minuutjes in de oven.",
+      "Voeg 1 el tomatenpuree toe aan het mengsel op het vuur. Laat dit even aanbakken.",
+      "Voeg de parelcouscous toe. Laat ook dit even aanbakken.",
+      "Voeg de groentebouillon toe en laat 10 minuten afgedekt koken. Roer zo weinig mogelijk. Kijk wel soms of er nog voldoende vocht in de pot zit.",
+      "Bak ondertussen de witte vis.",
+      "Wanneer de parelcouscous gaar is, haal je die van het vuur. Voeg boter, parmezaan en een klein beetje limoensap toe tot je een lekkere risotto verkrijgt.",
+      "Tijd om af te werken! Leg de vis op een bedje van parelcouscous. Doe hier de champignonnetjes en de tomaatjes bovenop en werk af met de courgette sliertjes."
+    ],
+    "servings": 2,
+    "tags": ["Pasta", "Vis"]
   }
 ]
