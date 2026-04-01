@@ -358,5 +358,64 @@
     ],
     "servings": 2,
     "tags": ["Pasta", "Vis"]
+  },
+  {
+    "id": "Burger-Buns",
+    "title": "Burger Buns",
+    "type": "Ontbijt",
+    "image": "images/chocolate-cake.jpg",
+    "summary": "",
+    "ingredients": [
+      "45 gr water (Tangzhong)",
+      "45 gr melk (Tangzhong)",
+      "20 gr bloem (Tangzhong)",
+      "120 gr melk",
+      "9.5 gr instant gist",
+      "320 gr bloem",
+      "7 gr zout",
+      "37 gr kristalsuiker",
+      "1 volledig ei",
+      "1 eigeel",
+      "42 gr boter"      
+    ],
+    "instructions": [
+      "Maak de Tangzhong door alle ingrediënten te mixen op een laag vuurtje. Roer constant tot er een pasta gevormd is. Deze thangzhong zorgt ervoor dat je broodje lekker fluffy wordt.",
+      "Zorg dat de melk op kamertemperatuur is. Voeg de gist toe en mix. Laat het op een warme plaats staan voor 5-10 minuten.",
+      "Mix de bloem, zout en kristalsuiker. Voeg daarna het melkmengsel, ei, eigeel, tanghzong en boter toe.",
+      "Kneed het deeg tot het mooi egaal is.",
+      "Plaats het deeg in een ingevette kom. Dek af met plastiek folie en laat 1-2 uur rijzen op een warme plek (of een nachtje in de koelkast voor nog beter resultaat).",
+      "Verdeel het deeg in bolletjes van 100 gr.",
+      "Belangrijke stap is het vormgeven. Draai het deeg en maak er een disk van. Neem de buitenkant en plooi die telkens naar het midden toe tot je een bolletje krijgt.",
+      "Rol het deeg tussen je hand en de tafel zoals je een warme kop koffie vasthoudt, tot je een mooie ronde verkrijgt.",
+      "Leg de bolletjes op een bakplaat en laat opnieuw 1-2 uur afgedekt rijzen op een warme plek.",
+      "Eens de broodjes verdubbelt zijn, bestrijk je ze met een mengesel van ei en een geutje melk.",
+      "Steek de broodjes in een oven van 190°C voor 17 minuten of totdat ze mooi bruin zijn.",
+      "Optioneel: smeer gesmolten boter over de broodjes net nadat ze uit de oven komen."
+    ],
+    "servings": 6,
+    "tags": ["Ontbijt"]
+  },
+  {
+    "id": "Brioche-Paashaas",
+    "title": "Paashaasjes",
+    "type": "Ontbijt",
+    "image": "images/chocolate-cake.jpg",
+    "summary": "",
+    "ingredients": [
+      "Zie recept Burger Buns"
+    ],
+    "instructions": [
+      "Maak het deeg net zoals uitgelegd staat in het recept Burger Buns.",
+      "Verdeel het deeg, na een eerste keer rijzen, in 2 delen (30% - 70%).",
+      "Verdeel beide delen deeg in evenveel stukken (8 à 12).",
+      "Bol de grote stukken mooi op en leg ze op de bakplaat.",
+      "Bol ook de kleine stukken, maar maak die iets ovaler. Duw deze stevig tegen de grote stukken aan.",
+      "Dek af en laat dit 1 tot 2 uur rijzen.",
+      "Knip met een schaar een inkeping in de kleine delen zodat je nu 2 oren hebt. Duw ze lichtjes open.",
+      "Bestrijk de paashaasjes met een mengsel van ei en een beetje melk.",
+      "Bak in een voorverwarmde oven op 180°C voor 15 tot 18 minuten of tot goudbruin."
+    ],
+    "servings": 10,
+    "tags": ["Ontbijt"]
   }
 ]
