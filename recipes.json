@@ -339,7 +339,7 @@
       "200 gr vis",
       "½ l groentebouillon",
       "Champignonnetjes naar keuze",
-      "Kerstomataatjes",
+      "Kerstomaatjes",
       "Balsamico",
       "Peper en zout"
     ],
@@ -417,5 +417,31 @@
     ],
     "servings": 10,
     "tags": ["Ontbijt"]
+  },
+  {
+    "id": "Focaccia-Burrata",
+    "title": "Focaccia met burrata en prosciutto",
+    "type": "Lunch",
+    "image": "images/chocolate-cake.jpg",
+    "summary": "Lekkere focaccia afgewerkt met burrata, kerstomaten, rucola en prosciutto",
+    "ingredients": [
+      "Focaccia voor 2",
+      "1 burrata",
+      "Rucola",
+      "Kerstomaatjes",
+      "Prosciutto",
+      "Optioneel: Pesto en balsamico"
+    ],
+    "instructions": [
+      "Laat de prosciutto en burrata op kamertemperatuur komen.",
+      "Halveer de kerstomaatjes, kruid ze met peper en zout en besprenkel met olijfolie.",
+      "Verwarm de oven tot 200°C. Steek de focaccia en kerstomaatjes er ongeveer 7 minuutjes in.",
+      "Optioneel: Beleg de focaccia met wat pesto. Overdrijf niet want dit kan nogal zout overkomen.",
+      "Verdeel de burrata over de focaccia en verdeel hierover de kerstomaatjes en rucola.",
+      "Werk af met enkele schelletjes prosciutto en eventueel een beetje balsamico.",
+      "Steek nog 2 minuutjes in de oven en serveer."
+    ],
+    "servings": 2,
+    "tags": ["Lunch"]
   }
 ]
